@@ -1,0 +1,11 @@
+C:\Users\Umut Berke\Desktop\dotnet19-master\snakegame\snakegame\bin\Debug\netcoreapp2.1\snakegame.deps.json
+C:\Users\Umut Berke\Desktop\dotnet19-master\snakegame\snakegame\bin\Debug\netcoreapp2.1\snakegame.runtimeconfig.json
+C:\Users\Umut Berke\Desktop\dotnet19-master\snakegame\snakegame\bin\Debug\netcoreapp2.1\snakegame.runtimeconfig.dev.json
+C:\Users\Umut Berke\Desktop\dotnet19-master\snakegame\snakegame\bin\Debug\netcoreapp2.1\snakegame.dll
+C:\Users\Umut Berke\Desktop\dotnet19-master\snakegame\snakegame\bin\Debug\netcoreapp2.1\snakegame.pdb
+C:\Users\Umut Berke\Desktop\dotnet19-master\snakegame\snakegame\obj\Debug\netcoreapp2.1\snakegame.csprojAssemblyReference.cache
+C:\Users\Umut Berke\Desktop\dotnet19-master\snakegame\snakegame\obj\Debug\netcoreapp2.1\snakegame.csproj.CoreCompileInputs.cache
+C:\Users\Umut Berke\Desktop\dotnet19-master\snakegame\snakegame\obj\Debug\netcoreapp2.1\snakegame.AssemblyInfoInputs.cache
+C:\Users\Umut Berke\Desktop\dotnet19-master\snakegame\snakegame\obj\Debug\netcoreapp2.1\snakegame.AssemblyInfo.cs
+C:\Users\Umut Berke\Desktop\dotnet19-master\snakegame\snakegame\obj\Debug\netcoreapp2.1\snakegame.dll
+C:\Users\Umut Berke\Desktop\dotnet19-master\snakegame\snakegame\obj\Debug\netcoreapp2.1\snakegame.pdb
